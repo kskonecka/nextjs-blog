@@ -22,9 +22,6 @@ export default function Home({ allPostsData }) {
         </Head>
         <section className={utilStyles.headingMd}>
           <p>[Space for your Self Introduction]</p>
-          <p>
-            Why are you not working? lalalalalal
-          </p>
         </section>
           <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
               <h2 className={utilStyles.headingLg}>Blog</h2>
